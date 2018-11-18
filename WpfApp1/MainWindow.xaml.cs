@@ -1,9 +1,4 @@
-﻿
-
-
-
-
-namespace WpfApp1
+﻿namespace WpfApp1
 {   using System;
     using System.Globalization;
     using System.IO;
